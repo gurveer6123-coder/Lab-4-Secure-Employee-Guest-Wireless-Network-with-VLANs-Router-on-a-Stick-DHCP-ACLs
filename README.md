@@ -1895,4 +1895,3 @@ ACL Enforcement           ✓
 Troubleshooting           ✓
 ```
 
-## Lab 4 Successfully Completed
